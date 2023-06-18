@@ -5,7 +5,7 @@
   box-sizing: border-box;
   font-family: "Spartan", sans-serif;
 }
-
+/* ======================== */
 :root {
   --primaryColor:hsl(225,50%,48%);
   --SecondaryColor:hsl(180,17%,95%);
